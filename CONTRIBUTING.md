@@ -13,7 +13,7 @@ The following guidelines should be followed when making any open-source contribu
 ## New Prompt Guidelines
 To add a new prompt to this repository, a contributor should take the following steps (in their personal fork):
 1. Create and test the new prompt.
-    - See the [README](https://github.com/f/awesome-chatgpt-prompts/blob/main/README.md) for guidance on how to write effective prompts.
+    - See the [README](https://github.com/airesvsg/prompts-impressionantes-chatgpt/blob/main/README.md) for guidance on how to write effective prompts.
     - Ensure prompts generate intended results and can be used by other users to replicate those results.
 2. Add the prompt to `README.md` using the following markdown template:
 
@@ -34,7 +34,6 @@ To add a new prompt to this repository, a contributor should take the following 
 - [ ] I've confirmed the prompt works well
 - [ ] I've added `Contributed by: [@yourusername](https://github.com/yourusername)`
 - [ ] I've added to the README.md
-- [ ] I've added to the `prompts.csv`
   - [ ] Escaped quotes by double-quoting them
   - [ ] No spaces after commas after double quotes. e.g. `"act","prompt"` not `"act", "prompt"`
   - [ ] Removed "Act as" from the title on CSV
